@@ -1,5 +1,7 @@
 # Technical_Mocki
 
+# Technical_Mocki
+
 Divided into 4 levels to begin with :
 
 1. Choose your level
@@ -25,6 +27,8 @@ git clone https://github.com/jordeguevara/Technical_Mocki.git
 ```
 
 <i> Open this weeks questions
+
 Feel free to chose from selected questions to work with others
 or work on your question then present your logic with others
 <i >
+
