@@ -14,7 +14,7 @@ Level 3 - Familar with Tries, Graph Traversals, searching trees, Divide and conq
 
 Level 4 - Familar with Dynamic programming and more advanced data structs and algos
 
-2. Choose your
+2. Choose your question
 
 ## Getting Started
 
@@ -25,6 +25,12 @@ Level 4 - Familar with Dynamic programming and more advanced data structs and al
 ```sh
 git clone https://github.com/jordeguevara/Technical_Mocki.git
 ```
+
+Then once it is created 
+
+  ```
+  cd Technical_Mocki
+  ```
 
 <i> Open this weeks questions
 
