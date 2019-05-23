@@ -1,0 +1,16 @@
+Easy - 125.    https://leetcode.com/problems/valid-palindrome/
+
+Medium - 442.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
+
+Hard - 895.    https://leetcode.com/problems/maximum-frequency-stack/
+
+create file with 125_yourname.js 
+
+when you are done, 
+
+```
+git add . 
+git commit -m '<yourname> solution'
+git push
+
+```

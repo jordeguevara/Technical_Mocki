@@ -25,6 +25,7 @@ git clone https://github.com/jordeguevara/Technical_Mocki.git
 ```
 
 <i> Open this weeks questions
+
 Feel free to chose from selected questions to work with others
 or work on your question then present your logic with others
 <i >
