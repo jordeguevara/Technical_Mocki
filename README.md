@@ -1,5 +1,7 @@
 # Technical_Mocki
 
+# Technical_Mocki
+
 Divided into 4 levels to begin with :
 
 1. Choose your level
@@ -12,7 +14,7 @@ Level 3 - Familar with Tries, Graph Traversals, searching trees, Divide and conq
 
 Level 4 - Familar with Dynamic programming and more advanced data structs and algos
 
-2. Choose your
+2. Choose your question
 
 ## Getting Started
 
@@ -24,8 +26,15 @@ Level 4 - Familar with Dynamic programming and more advanced data structs and al
 git clone https://github.com/jordeguevara/Technical_Mocki.git
 ```
 
+Then once it is created 
+
+  ```
+  cd Technical_Mocki
+  ```
+
 <i> Open this weeks questions
 
 Feel free to chose from selected questions to work with others
 or work on your question then present your logic with others
 <i >
+
