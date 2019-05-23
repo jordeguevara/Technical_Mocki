@@ -1,9 +1,13 @@
 Easy - 125.    https://leetcode.com/problems/valid-palindrome/
+    709. https://leetcode.com/problems/to-lower-case/
 
 Medium - 442.  https://leetcode.com/problems/find-all-duplicates-in-an-array/
+        430. https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 
 Hard - 895.    https://leetcode.com/problems/maximum-frequency-stack/
 
+
+## Getting started 
 create file with 125_yourname.js 
 
 when you are done, 
