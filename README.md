@@ -1,7 +1,5 @@
 # Technical_Mocki
 
-# Technical_Mocki
-
 Divided into 4 levels to begin with :
 
 1. Choose your level
@@ -26,15 +24,14 @@ Level 4 - Familar with Dynamic programming and more advanced data structs and al
 git clone https://github.com/jordeguevara/Technical_Mocki.git
 ```
 
-Then once it is created 
+Then once it is created
 
-  ```
-  cd Technical_Mocki
-  ```
+```
+cd Technical_Mocki
+```
 
 <i> Open this weeks questions
 
 Feel free to chose from selected questions to work with others
 or work on your question then present your logic with others
 <i >
-
