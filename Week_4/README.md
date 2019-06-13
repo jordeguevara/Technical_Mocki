@@ -19,6 +19,17 @@ Binary Search Tree, (BST) - self-balancing BST
 if given a tree, perform some traversal :
 
 fundamental traversals:
+<<<<<<< Updated upstream
+=======
+dfs:
+-Pre Order Traversal - Root Left Right
+`
+
+1. Traverse the left subtree, i.e., call Inorder(left-subtree)
+
+2. Visit the root.
+3. Traverse the right subtree, i.e., call Inorder(right-subtree)`
+>>>>>>> Stashed changes
 
 depftFirstSeach(dfs):
   
@@ -56,3 +67,15 @@ In Order Traversal - Left Root Right
   
   
       `
+
+Easy - 965. Univalued Binary Tree https://leetcode.com/problems/univalued-binary-tree/
+
+Medium - 654. Maximum Binary Tree
+
+Hard - 145. Binary Tree Postorder Traversal
+
+LinkedList -
+
+easy 141. Linked List Cycle
+
+Medium: 430. Flatten a Multilevel Doubly Linked List
