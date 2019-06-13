@@ -19,8 +19,6 @@ Binary Search Tree, (BST) - self-balancing BST
 if given a tree, perform some traversal :
 
 fundamental traversals:
-<<<<<<< Updated upstream
-=======
 dfs:
 -Pre Order Traversal - Root Left Right
 `
@@ -29,43 +27,40 @@ dfs:
 
 2. Visit the root.
 3. Traverse the right subtree, i.e., call Inorder(right-subtree)`
->>>>>>> Stashed changes
 
 depftFirstSeach(dfs):
-  
- Pre Order Traversal - Root Left Right
- 
-``` 
-1. Traverse the left subtree, i.e., call Inorder(left-subtree) 
 
-2. Visit the root. 
+Pre Order Traversal - Root Left Right
+
+```
+1. Traverse the left subtree, i.e., call Inorder(left-subtree)
+
+2. Visit the root.
 
 3. Traverse the right subtree, i.e., call Inorder(right-subtree)
 ```
 
 In Order Traversal - Left Root Right
 
- ```
- 1. Visit the root. 
-  
-  2. Traverse the left subtree, i.e., call Preorder(left-subtree)
-  
-  3. Traverse the right subtree, i.e., call Preorder(right-subtree)
-  ```
-  
-   Post Order Traversal - Left Right Root
-   
-   ```
-    
-  1.  Traverse the left subtree, i.e., call Postorder(left-subtree)
-  
-  2.  Traverse the right subtree, i.e., call Postorder(right-subtree)
-  
-  3.  Visit the root.
-  ```
-  
-  
-  
+```
+1. Visit the root.
+
+ 2. Traverse the left subtree, i.e., call Preorder(left-subtree)
+
+ 3. Traverse the right subtree, i.e., call Preorder(right-subtree)
+```
+
+Post Order Traversal - Left Right Root
+
+```
+
+1.  Traverse the left subtree, i.e., call Postorder(left-subtree)
+
+2.  Traverse the right subtree, i.e., call Postorder(right-subtree)
+
+3.  Visit the root.
+```
+
       `
 
 Easy - 965. Univalued Binary Tree https://leetcode.com/problems/univalued-binary-tree/
